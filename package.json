@@ -1,0 +1,23 @@
+{
+  "name": "is-it-down",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Joseph Campuzano",
+    "email": "campuzanojoseph@gmail.com"
+  },
+  "scripts": {
+    
+  },
+  "bin": "index.js",
+  "engines": {
+    "node": ">=7.4"
+  },
+  "files": ["index.js"],
+  "keywords": ["check", "up", "down"],
+  "dependencies": {
+    "meow": "^4.0.0",
+    "node-fetch": "^2.0.0"
+  }
+}
